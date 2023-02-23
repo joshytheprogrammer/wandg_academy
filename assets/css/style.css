@@ -157,7 +157,8 @@ body {
 }
 
 .main-button-yellow a:hover {
-  opacity: 0.9;
+  opacity: 1;
+  background-color: var(--primary);
 }
 
 .section-heading h2 {
@@ -947,6 +948,8 @@ section.upcoming-meetings .categories .main-button-red a {
 .meeting-item .thumb img {
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
+  height: 215px;
+  object-fit: cover;
 }
 
 .meeting-item .thumb .price {
