@@ -1111,6 +1111,10 @@ section.our-courses {
   padding-bottom: 130px;
 }
 
+.our-courses .item img {
+  height: 170px;
+}
+
 .our-courses .item .down-content {
   background-color: var(--light);
 }
@@ -1300,7 +1304,7 @@ section.our-facts h2 {
 section.our-facts .video {
   text-align: center;
   margin-left: 70px;
-  background-image: url(../images/video-item-bg.jpg);
+  background-image: url(https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
