@@ -717,6 +717,7 @@ banner
 .main-banner .caption {
   position: absolute;
   top: 50%;
+  left: auto;
   transform: translateY(-50%);
 }
 
@@ -1177,7 +1178,7 @@ section.our-courses {
   display: inline-block;
   text-align: center;
   width: 100%;
-  margin-top: 40px;
+  /* margin-top: 40px; */
 }
 
 .our-courses .owl-dots .owl-dot {
