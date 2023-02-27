@@ -739,13 +739,15 @@ services
 }
 
 .services .item {
-  background-image: url(../images/service-item-bg.jpg);
+  /* background-image: url(../images/service-item-bg.jpg); */
+  background-color: var(--light);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   border-radius: 20px;
   text-align: center;
-  color: var(--light);
+  /* color: var(--light); */
+  color: #000;
   padding: 40px;
 }
 
@@ -762,7 +764,7 @@ services
 }
 
 .services .item p {
-  color: var(--light);
+  color: inherit;
   font-size: 13px;
 }
 
