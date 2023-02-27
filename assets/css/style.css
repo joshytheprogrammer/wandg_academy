@@ -171,6 +171,7 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   color: var(--light);
+  /* color: #000; */
 }
 
 .background-header {
@@ -850,7 +851,8 @@ upcoming meetings
 */
 
 section.upcoming-meetings {
-  background-image: url(../images/meetings-bg.jpg);
+  /* background-image: url(../images/meetings-bg.jpg); */
+  background-image: url(https://images.unsplash.com/photo-1608068811588-3a67006b7489?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1260&q=80);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -861,6 +863,10 @@ section.upcoming-meetings {
 
 section.upcoming-meetings .section-heading {
   text-align: center;
+}
+
+section.upcoming-meetings .section-heading h2 {
+  color: #000;
 }
 
 section.upcoming-meetings .categories {
@@ -987,7 +993,8 @@ apply now
 */
 
 section.apply-now {
-  background-image: url(../images/apply-bg.jpg);
+  /* background-image: url(../images/apply-bg.jpg); */
+  background-image: url(https://images.unsplash.com/photo-1649437728247-a10ae5655464?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1260&q=80);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1230,7 +1237,8 @@ our facts
 */
 
 section.our-facts {
-  background-image: url(../images/facts-bg.jpg);
+  /* background-image: url(../images/facts-bg.jpg); */
+  background-image: url(https://images.unsplash.com/photo-1593285687836-443f2e992262?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2160&q=80);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1292,7 +1300,6 @@ section.our-facts .video img {
   max-width: 56px;
 }
 
-
 /* 
 ---------------------------------------------
 contact us
@@ -1300,6 +1307,7 @@ contact us
 */
 
 section.contact-us {
+  /* background-image: url(https://images.unsplash.com/photo-1677418265856-e3675174f6f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=761&q=80); */
   background-image: url(../images/meetings-bg.jpg);
   background-position: center center;
   background-attachment: fixed;
@@ -1481,6 +1489,7 @@ upcoming meetings page
 */
 
 section.meetings-page {
+  /* background-image: url(https://images.pexels.com/photos/2230796/pexels-photo-2230796.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1); */
   background-image: url(../images/meetings-page-bg.jpg);
   background-position: center center;
   background-attachment: fixed;
