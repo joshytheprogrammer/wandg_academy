@@ -1,5 +1,5 @@
 :root {
-  --primary: rgb(20, 20, 175);
+  --primary: #354A9B;
   --secondary: rgb(126, 126, 255);
   --light: #fff;
 }
@@ -1424,9 +1424,9 @@ section.contact-us .right-info ul li h6 {
 
 section.contact-us .right-info ul li span {
   display: block;
-  font-size: 18px;
+  /* font-size: 18px; */
   color: var(--light);
-  font-weight: 700;
+  /* font-weight: 700; */
 }
 
 .footer {
