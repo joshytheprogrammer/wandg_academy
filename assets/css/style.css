@@ -1266,7 +1266,9 @@ our facts
 
 section.our-facts {
   /* background-image: url(../images/facts-bg.jpg); */
-  background-image: url(https://images.unsplash.com/photo-1593285687836-443f2e992262?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2160&q=80);
+  /* background-image: url(https://images.unsplash.com/photo-1593285687836-443f2e992262?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2160&q=80); */
+  background: linear-gradient(rgba(82, 82, 82, 0.5), rgba(127, 127, 127, 0.5)), url(../images/bg-123.jpg);
+  /* filter: brightness(50%); */
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
