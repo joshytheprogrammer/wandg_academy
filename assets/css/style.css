@@ -852,7 +852,8 @@ upcoming meetings
 
 section.upcoming-meetings {
   /* background-image: url(../images/meetings-bg.jpg); */
-  background-image: url(https://images.unsplash.com/photo-1608068811588-3a67006b7489?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1260&q=80);
+  /* background-image: url(https://images.unsplash.com/photo-1608068811588-3a67006b7489?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1260&q=80); */
+  background-color: #ebe8ed;
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
