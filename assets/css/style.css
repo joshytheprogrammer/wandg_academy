@@ -954,7 +954,7 @@ section.upcoming-meetings .categories .main-button-red a {
   /* float: left; */
   text-align: center;
   display: inline-block;
-  margin-right: 20px;
+  /* margin-right: 20px; */
 }
 
 .meeting-item .down-content .date h6 {
@@ -980,7 +980,7 @@ section.upcoming-meetings .categories .main-button-red a {
 }
 
 .meeting-item .down-content p {
-  margin-left: 50px;
+  margin-left: 10px;
   color: #1f272b;
   font-size: 14px;
 }
