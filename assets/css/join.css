@@ -1,3 +1,9 @@
+:root {
+  --primary: #354A9B;
+  --secondary: #354A9B;
+  --light: #fff;
+}
+
 body {
   background: black;
   min-height: 100vh;
@@ -13,10 +19,14 @@ nav {
 nav a {
   font-size: 48px;
   color: white;
-  font-weight: bold;
+  font-weight: 400;
   display: block;
   margin: auto;
   width: fit-content;
+}
+
+nav a:hover {
+  color: white;
 }
 
 nav a img {
